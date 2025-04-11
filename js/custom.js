@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
 
-    Template Name: Samantha - Crowdfunding & Charity HTML Template
+    Template Name: Regortz - Crowdfunding & Charity HTML Template
 
 
 
